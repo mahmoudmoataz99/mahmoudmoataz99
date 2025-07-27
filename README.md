@@ -6,9 +6,8 @@ I'm a passionate Junior Full Stack Engineer dedicated to building clean, efficie
 I believe in writing maintainable, well-tested code and continuously improving my skills through hands-on projects and collaboration. I’m eager to contribute to innovative teams and grow into a versatile, full-stack professional.
 
 ### 🚀 What I’m Working On
-- Improving my skills in cloud technologies ☁️ 
+- Improving my skills in various technologies ☁️ 
 - Building impactful projects that solve real-world challenges and showcase best practices  
-- Learning TypeScript and improving code quality and scalability
 
 ### 💻 Tech Stack
 - **Frontend:** React, Redux, Angular, HTML5, CSS3, JavaScript (ES6+), Tailwind, Bootstrap
