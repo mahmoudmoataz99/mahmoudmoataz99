@@ -1,6 +1,6 @@
 # Hi there, I'm 🧑‍💻 Mahmoud Moataz 🧑‍💻
 
-### 👨‍💻 About Me
+### ℹ️ About Me
 I'm a passionate Junior Full Stack Engineer dedicated to building clean, efficient, and scalable web applications that provide real value. With a solid foundation in JavaScript, React, Node.js, Express, and MongoDB, I thrive on solving complex problems and delivering seamless user experiences.
 
 I believe in writing maintainable, well-tested code and continuously improving my skills through hands-on projects and collaboration. I’m eager to contribute to innovative teams and grow into a versatile, full-stack professional.
