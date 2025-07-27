@@ -16,11 +16,6 @@ I believe in writing maintainable, well-tested code and continuously improving m
 - **Database:** MongoDB, SQL basics  
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman
 
-### 🌱 Currently Learning
-- TypeScript & Advanced JavaScript patterns  
-- Cloud infrastructure and serverless architectures  
-- Testing frameworks like Jest and Cypress  
-
 ### 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/mahmoudmoataz99)  
 - [Email](mailto:mahmoudmoataz99@gmail.com)  
