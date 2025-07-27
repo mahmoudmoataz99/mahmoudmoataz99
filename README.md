@@ -1,11 +1,4 @@
-# Hi there, I'm  
-# ✨ Mahmoud Moataz ✨ 
-
-<div align="center">
-
-🚀 **J**🌟**u**🌟**n**🌟**i**🌟**o**🌟**r** 😎 **F**🌟**u**🌟**l**🌟**l** 🌟 **S**🌟**t**🌟**a**🌟**c**🌟**k** 🚀
-
-</div>
+# Hi there, I'm ✨ Mahmoud Moataz ✨ 
 
 ### 👨‍💻 About Me
 I'm a passionate Junior Full Stack Engineer dedicated to building clean, efficient, and scalable web applications that provide real value. With a solid foundation in JavaScript, React, Node.js, Express, and MongoDB, I thrive on solving complex problems and delivering seamless user experiences.
