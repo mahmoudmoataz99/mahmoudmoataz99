@@ -18,6 +18,7 @@ I believe in writing maintainable, well-tested code and continuously improving m
 ### 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/mahmoudmoataz99)  
 - [Email](mailto:mahmoudmoataz99@gmail.com)  
+- [Discord](https://discordapp.com/users/m_abouelregal)  
 
 ---
 
