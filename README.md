@@ -1,25 +1,75 @@
-# Hi there, I'm 🧑‍💻 Mahmoud Moataz 🧑‍💻
+<h1 align="center">Hi 👋, I'm Mahmoud Moataz</h1>
 
-### ℹ️ About Me
-I'm a passionate Junior Full Stack Engineer dedicated to building clean, efficient, and scalable web applications that provide real value. With a solid foundation in JavaScript, React, Node.js, Express, and MongoDB, I thrive on solving complex problems and delivering seamless user experiences.
+<p align="center">
+  💻 Junior Full Stack Engineer | 🚀 Passionate about building scalable apps
+</p>
 
-I believe in writing maintainable, well-tested code and continuously improving my skills through hands-on projects and collaboration. I’m eager to contribute to innovative teams and grow into a versatile, full-stack professional.
-
-### 🚀 What I’m Working On
-- Improving my skills in various technologies ☁️ 
-- Building impactful projects that solve real-world challenges and showcase best practices  
-
-### 💻 Tech Stack
-- **Frontend:** React, Next.Js, Angular, HTML5, CSS3, JavaScript (ES6+), Tailwind, Bootstrap
-- **Backend:** Node.JS, Express, Nest.JS, RESTful APIs  
-- **Database:** MongoDB, SQL basics  
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/mahmoudmoataz99)
-[![Email](https://img.icons8.com/color/48/gmail.png)](mailto:mahmoudmoataz99@gmail.com)
-[![Discord](https://img.icons8.com/color/48/discord.png)](https://discordapp.com/users/m_abouelregal)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node+%7C+NestJS;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
-I’m always open to collaboration, mentorship, and exciting opportunities — feel free to reach out!
+## 🧑‍💻 About Me
+💡 Passionate Full Stack Engineer focused on building **clean, scalable, and impactful applications**  
+
+- 🔭 Currently improving my skills across modern web technologies  
+- 🧠 Love solving real-world problems through code  
+- ⚡ Strong believer in **clean code & best practices**  
+- 🤝 Open to collaboration & new opportunities  
+
+---
+
+## 🚀 What I’m Working On
+- 🌱 Learning advanced backend & system design concepts  
+- 🛠️ Building real-world projects with best practices  
+- ☁️ Exploring cloud & deployment technologies  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/mahmoudmoataz99">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mahmoudmoataz99@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png" width="28"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/m_abouelregal">
+    <img src="https://img.icons8.com/color/48/discord.png" width="28"/>
+  </a>
+</p>
