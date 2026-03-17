@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Moataz</h1>
 
 <p align="center">
-  💻 Junior Full Stack Engineer
+  Junior Full Stack Engineer
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 💡 Passionate Full Stack Engineer focused on building **clean, scalable, and impactful applications**  
 
 - 🔭 Currently improving my skills across modern web technologies  
@@ -20,14 +20,14 @@
 
 ---
 
-## 🚀 What I’m Working On
+## What I’m Working On
 - 🌱 Learning advanced backend & system design concepts  
 - 🛠️ Building real-world projects with best practices  
 - ☁️ Exploring cloud & deployment technologies  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 🎨 Frontend
 <p>
@@ -51,7 +51,7 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 <p align="start">
   <a href="https://linkedin.com/in/mahmoudmoataz99">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
