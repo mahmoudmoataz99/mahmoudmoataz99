@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Moataz</h1>
 
 <p align="center">
-  💻 Junior Full Stack Engineer | 🚀 Passionate about building scalable apps
+  💻 Junior Full Stack Engineer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node+%7C+NestJS;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Passionate+about+building+scalable+apps;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
@@ -51,25 +51,17 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ## 📫 Connect with Me
-<p align="center">
+<p align="start">
   <a href="https://linkedin.com/in/mahmoudmoataz99">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mahmoudmoataz99@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png" width="28"/>
+    <img src="https://img.icons8.com/color/48/gmail.png" width="32"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/m_abouelregal">
-    <img src="https://img.icons8.com/color/48/discord.png" width="28"/>
+    <img src="https://img.icons8.com/color/48/discord.png" width="32"/>
   </a>
 </p>
