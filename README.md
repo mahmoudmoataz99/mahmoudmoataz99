@@ -10,15 +10,15 @@ I believe in writing maintainable, well-tested code and continuously improving m
 - Building impactful projects that solve real-world challenges and showcase best practices  
 
 ### 💻 Tech Stack
-- **Frontend:** React, Redux, Angular, HTML5, CSS3, JavaScript (ES6+), Tailwind, Bootstrap
-- **Backend:** Node.js, Express, RESTful APIs  
+- **Frontend:** React, Next.Js, Angular, HTML5, CSS3, JavaScript (ES6+), Tailwind, Bootstrap
+- **Backend:** Node.JS, Express, Nest.JS, RESTful APIs  
 - **Database:** MongoDB, SQL basics  
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman
 
 ### 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/mahmoudmoataz99)  
-- [Email](mailto:mahmoudmoataz99@gmail.com)  
-- [Discord](https://discordapp.com/users/m_abouelregal)  
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/mahmoudmoataz99)
+[![Email](https://img.icons8.com/color/48/gmail.png)](mailto:mahmoudmoataz99@gmail.com)
+[![Discord](https://img.icons8.com/color/48/discord.png)](https://discordapp.com/users/m_abouelregal)
 
 ---
 
