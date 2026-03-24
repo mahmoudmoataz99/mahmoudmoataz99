@@ -70,7 +70,6 @@
 <p>
 💬 Feel free to reach out for collaboration or opportunities 
 </p>
----
 
 <a id="arabic"></a>
 ## 🇪🇬 العربية
