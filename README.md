@@ -71,6 +71,8 @@
 💬 Feel free to reach out for collaboration or opportunities 
 </p>
 
+<hr />
+
 <a id="arabic"></a>
 ## 🇪🇬 العربية
 
