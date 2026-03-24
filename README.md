@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Moataz</h1>
 
 <p align="center">
-  Junior Full Stack Engineer
+  🌐 <a href="#english">English</a> | <a href="#arabic">العربية</a>
 </p>
 
 <p align="center">
@@ -10,8 +10,11 @@
 
 ---
 
+<a id="english"></a>
+## 🇺🇸 English
+
 ## About Me
-💡 Passionate Full Stack Engineer focused on building **clean, scalable, and impactful applications**  
+💡 Passionate Full Stack Engineer focused on building **clean, scalable, and impactful applications**
 
 - 🔭 Currently improving my skills across modern web technologies  
 - 🧠 Love solving real-world problems through code  
@@ -51,7 +54,66 @@
 
 ---
 
-## Connect with Me
+<a id="arabic"></a>
+## 🇪🇬 العربية
+
+<div dir="rtl">
+
+<h1 align="center"> مرحباً 👋, أنا محمود معتز</h1>
+
+<p align="center">
+  🌐 <a href="#english">English</a> | <a href="#arabic">العربية</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+مطور;شغوف+ببناء+تطبيقات+قابلة+للتوسع;أتعلم+أشياء+جديدة+دائمًا&center=true&width=500&height=45">
+</p>
+
+## نبذة عني
+💡 مهندس برمجيات Full Stack شغوف ببناء تطبيقات **نظيفة، قابلة للتوسع، وذات تأثير**
+
+- 🔭 أعمل حاليًا على تطوير مهاراتي في تقنيات الويب الحديثة  
+- 🧠 أحب حل المشكلات الواقعية باستخدام البرمجة  
+- ⚡ أؤمن بقوة بـ **تنظيم الكود وأفضل الممارسات**  
+- 🤝 منفتح على التعاون والفرص الجديدة  
+
+---
+
+## ما أعمل عليه حاليًا
+- 🌱 أتعلم مفاهيم متقدمة في الباك إند وتصميم الأنظمة  
+- 🛠️ أبني مشاريع واقعية باستخدام أفضل الممارسات  
+- ☁️ أستكشف تقنيات الكلاود والنشر  
+
+---
+
+## التقنيات
+
+### 🎨 الواجهة الأمامية
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js,tailwind,bootstrap" />
+</p>
+
+### ⚙️ الواجهة الخلفية
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### 🗄️ قواعد البيانات
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 الأدوات
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+</div>
+
+---
+
+## 📫 Connect with Me | تواصل معي
+
 <p align="start">
   <a href="https://linkedin.com/in/mahmoudmoataz99">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
@@ -64,4 +126,9 @@
   <a href="https://discordapp.com/users/m_abouelregal">
     <img src="https://img.icons8.com/color/48/discord.png" width="32"/>
   </a>
+</p>
+
+<p>
+💬 Feel free to reach out for collaboration or opportunities  
+💬 لا تتردد في التواصل للتعاون أو الفرص
 </p>
