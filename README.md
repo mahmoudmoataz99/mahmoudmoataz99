@@ -52,6 +52,24 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
+## 📫 Connect with Me
+
+<p align="start">
+  <a href="https://linkedin.com/in/mahmoudmoataz99">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mahmoudmoataz99@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png" width="32"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/m_abouelregal">
+    <img src="https://img.icons8.com/color/48/discord.png" width="32"/>
+  </a>
+</p>
+<p>
+💬 Feel free to reach out for collaboration or opportunities 
+</p>
 ---
 
 <a id="arabic"></a>
@@ -112,7 +130,7 @@
 
 ---
 
-## 📫 Connect with Me | تواصل معي
+## 📫 تواصل معي
 
 <p align="start">
   <a href="https://linkedin.com/in/mahmoudmoataz99">
@@ -129,6 +147,5 @@
 </p>
 
 <p>
-💬 Feel free to reach out for collaboration or opportunities  
 💬 لا تتردد في التواصل للتعاون أو الفرص
 </p>
