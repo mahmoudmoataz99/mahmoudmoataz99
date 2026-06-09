@@ -50,20 +50,20 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahmoudmoataz99" style="display: inline-flex; align-items: center; justify-items:center; margin: 0 15px; text-decoration: none;">
+  <span style="display: inline-flex; align-items: center; margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="28" style="vertical-align: middle;">
-    <span style="margin-left: 8px; vertical-align: middle;">linkedin.com/in/mahmoudmoataz99</span>
-  </a>
+    <span style="margin-left: 8px; vertical-align: middle;">mahmoudmoataz99</span>
+  </span>
   
-  <a href="mailto:mahmoudmoataz99@gmail.com" style="display: inline-flex; align-items: center; justify-items:center; margin: 0 15px; text-decoration: none;">
+  <span style="display: inline-flex; align-items: center; margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/gmail.png" width="28" style="vertical-align: middle;">
     <span style="margin-left: 8px; vertical-align: middle;">mahmoudmoataz99@gmail.com</span>
-  </a>
+  </span>
   
-  <a href="https://discordapp.com/users/m_abouelregal" style="display: inline-flex; align-items: center; justify-items:center; margin: 0 15px; text-decoration: none;">
+  <span style="display: inline-flex; align-items: center; margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/discord.png" width="28" style="vertical-align: middle;">
     <span style="margin-left: 8px; vertical-align: middle;">m_abouelregal</span>
-  </a>
+  </span>
 </p>
 
 <p align="center">
