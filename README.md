@@ -45,14 +45,16 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
+---
+
 ## 📫 Connect with Me
 
-<p>
-  LinkedIn: https://linkedin.com/in/mahmoudmoataz99<br>
-  Email: mahmoudmoataz99@gmail.com<br>
-  Discord: m_abouelregal
+<p align="center">
+  <strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/mahmoudmoataz99">linkedin.com/in/mahmoudmoataz99</a><br><br>
+  <strong>📧 Email:</strong> <a href="mailto:mahmoudmoataz99@gmail.com">mahmoudmoataz99@gmail.com</a><br><br>
+  <strong>💬 Discord:</strong> m_abouelregal
 </p>
 
-<p>
-💬 Feel free to reach out for collaboration or opportunities 
+<p align="center">
+  💬 Feel free to reach out for collaboration or opportunities 
 </p>
