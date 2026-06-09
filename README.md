@@ -49,22 +49,22 @@
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <span style="display: inline-flex; align-items: center; margin: 0 15px;">
+<section>
+  <div style="display: inline-flex; align-items: center; margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="28" style="vertical-align: middle;">
-    <span style="margin-left: 8px; vertical-align: middle;">mahmoudmoataz99</span>
-  </span>
+    <p style="margin-left: 8px; vertical-align: middle;">mahmoudmoataz99</p>
+  </div>
   
-  <span style="display: inline-flex; align-items: center; margin: 0 15px;">
+  <div style="display: inline-flex; align-items: center; margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/gmail.png" width="28" style="vertical-align: middle;">
-    <span style="margin-left: 8px; vertical-align: middle;">mahmoudmoataz99@gmail.com</span>
-  </span>
+    <p style="margin-left: 8px; vertical-align: middle;">mahmoudmoataz99@gmail.com</p>
+  </div>
   
-  <span style="display: inline-flex; align-items: center; margin: 0 15px;">
+  <div style="display: inline-flex; align-items: center; margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/discord.png" width="28" style="vertical-align: middle;">
-    <span style="margin-left: 8px; vertical-align: middle;">m_abouelregal</span>
-  </span>
-</p>
+    <p style="margin-left: 8px; vertical-align: middle;">m_abouelregal</p>
+  </div>
+</section>
 
 <p align="center">
   💬 Feel free to reach out for collaboration or opportunities 
