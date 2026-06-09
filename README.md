@@ -50,19 +50,19 @@
 ## 📫 Connect with Me
 
 <section>
-  <div style="width:100%; display: flex; align-items: center; justify-items: center; margin: 0 15px;">
+  <div style="display: flex; align-items: center; margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="28" style="vertical-align: middle;">
-    <p style="margin-left: 8px; vertical-align: middle;">https://linkedin.com/in/mahmoudmoataz99</p>
+    <p style="margin-left: 8px; margin-top:10px">https://linkedin.com/in/mahmoudmoataz99</p>
   </div>
   
-  <div style="width:100%; display:flex; align-items: center; justify-items: center; margin: 0 15px;">
+  <div style="display:flex; align-items: center; margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/gmail.png" width="28" style="vertical-align: middle;">
-    <p style="margin-left: 8px; vertical-align: middle;">mahmoudmoataz99@gmail.com</p>
+    <p style="margin-left: 8px; margin-top:10px">mahmoudmoataz99@gmail.com</p>
   </div>
   
-  <div style="width:100%; display: flex; align-items: center; justify-items: center; margin: 0 15px;">
+  <div style="display: flex; align-items: center; margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/discord.png" width="28" style="vertical-align: middle;">
-    <p style="margin-left: 8px; vertical-align: middle;">m_abouelregal</p>
+    <p style="margin-left: 8px; margin-top:10px">m_abouelregal</p>
   </div>
 </section>
 
