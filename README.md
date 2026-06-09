@@ -50,20 +50,20 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahmoudmoataz99">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="32" style="vertical-align: middle;">
+  <a href="https://linkedin.com/in/mahmoudmoataz99" style="display: inline-flex; align-items: center; margin: 0 15px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="28" style="vertical-align: middle;">
+    <span style="margin-left: 8px; vertical-align: middle;">linkedin.com/in/mahmoudmoataz99</span>
   </a>
-  <a href="https://linkedin.com/in/mahmoudmoataz99" style="text-decoration: none; margin-right: 30px;">linkedin.com/in/mahmoudmoataz99</a>
-  <br><br>
-  <a href="mailto:mahmoudmoataz99@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png" width="32" style="vertical-align: middle;">
+  
+  <a href="mailto:mahmoudmoataz99@gmail.com" style="display: inline-flex; align-items: center; margin: 0 15px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/gmail.png" width="28" style="vertical-align: middle;">
+    <span style="margin-left: 8px; vertical-align: middle;">mahmoudmoataz99@gmail.com</span>
   </a>
-  <a href="mailto:mahmoudmoataz99@gmail.com" style="text-decoration: none; margin-right: 30px;">mahmoudmoataz99@gmail.com</a>
-  <br><br>
-  <a href="https://discordapp.com/users/m_abouelregal">
-    <img src="https://img.icons8.com/color/48/discord.png" width="32" style="vertical-align: middle;">
+  
+  <a href="https://discordapp.com/users/m_abouelregal" style="display: inline-flex; align-items: center; margin: 0 15px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/discord.png" width="28" style="vertical-align: middle;">
+    <span style="margin-left: 8px; vertical-align: middle;">m_abouelregal</span>
   </a>
-  <span style="vertical-align: middle;">m_abouelregal</span>
 </p>
 
 <p align="center">
