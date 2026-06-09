@@ -50,9 +50,20 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/mahmoudmoataz99">linkedin.com/in/mahmoudmoataz99</a><br><br>
-  <strong>📧 Email:</strong> <a href="mailto:mahmoudmoataz99@gmail.com">mahmoudmoataz99@gmail.com</a><br><br>
-  <strong>💬 Discord:</strong> m_abouelregal
+  <a href="https://linkedin.com/in/mahmoudmoataz99">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="32" style="vertical-align: middle;">
+  </a>
+  <a href="https://linkedin.com/in/mahmoudmoataz99" style="text-decoration: none; margin-right: 30px;">linkedin.com/in/mahmoudmoataz99</a>
+  <br><br>
+  <a href="mailto:mahmoudmoataz99@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png" width="32" style="vertical-align: middle;">
+  </a>
+  <a href="mailto:mahmoudmoataz99@gmail.com" style="text-decoration: none; margin-right: 30px;">mahmoudmoataz99@gmail.com</a>
+  <br><br>
+  <a href="https://discordapp.com/users/m_abouelregal">
+    <img src="https://img.icons8.com/color/48/discord.png" width="32" style="vertical-align: middle;">
+  </a>
+  <span style="vertical-align: middle;">m_abouelregal</span>
 </p>
 
 <p align="center">
