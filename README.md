@@ -59,11 +59,6 @@
     <img src="https://img.icons8.com/color/48/gmail.png" width="28" style="vertical-align: middle;">
     <p style="margin-left: 8px; margin-top:10px;">mahmoudmoataz99@gmail.com</p>
   </div>
-  
-  <div style="display: flex; align-items: center; margin: 0 15px;">
-    <img src="https://img.icons8.com/color/48/discord.png" width="28" style="vertical-align: middle;">
-    <p style="margin-left: 8px; margin-top:10px;">m_abouelregal</p>
-  </div>
 </section>
 
 <p align="center">
